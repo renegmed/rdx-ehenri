@@ -1,0 +1,3 @@
+React Architecture: Working with Flux and Redux
+
+1. Copied from section 5 as starting point of the lesson
